@@ -19,14 +19,12 @@ const About_cv = () => {
 
 	return (
 		<>
-			<div className='app__flex'>
-				<button className='primary-button'>
+			<div className="app__flex">
+				<button className="primary-button">
 					<a
-						className='p-text'
-						href={
-							"https://docs.google.com/document/d/16IylNvEa5SDfHMSyXSfWKu8kldN0ce4bRp76HH3cMPo/edit?usp=sharing"
-						}
-						target='_blank'
+						className="p-text"
+						href={"https://shorturl.at/mAMU7"}
+						target="_blank"
 					>
 						CV
 					</a>
